@@ -57,7 +57,9 @@
 
 ## Screenshot 🖼️
 
-![Python VCF Generator]()
+![image](https://github.com/user-attachments/assets/561dd919-3321-4a32-b619-9fa66ae00033)
+![image](https://github.com/user-attachments/assets/5c5cabe5-6a13-4cae-a017-920f81c492a2)
+
 
 
 
